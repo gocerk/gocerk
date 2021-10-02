@@ -6,7 +6,7 @@ $ kaanfetch
    /-----------omMMMNNNMMD  ---:     Host: Kaan Gocer 
   :-----------sMMMMNMNMP.    ---:    Uptime: 15 Years
  :-----------:MMMdP-------    ---\   Languages: JavaScript, Python, Dart, C++ 
-,------------:MMMd--------    ---:   Hobbies: Classical Music, Gaming, Violin
+,------------:MMMd--------    ---:   Hobbies: Classical Music, Gaming
 :------------:MMMd-------    .---:   DE: GNOME 40.0
 :----    oNMMMMMMMMMNho     .----:   Shell: Fish 3.3.1
 :--     .+shhhMMMmhhy++   .------/   
