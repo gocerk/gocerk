@@ -32,7 +32,7 @@ src="https://img.shields.io/twitter/follow/kaanfkennedy?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/435446035230490624" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kaanfkennedy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kaanfkennedy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/435446035230490624" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/gocerk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kaanfkennedy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-![kaanfkennedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanfkennedy&show_icons=true&theme=radical)
+![gocerk's GitHub stats](https://github-readme-stats.vercel.app/api?username=gocerk&show_icons=true&theme=radical)
