@@ -4,7 +4,7 @@ Hi 👋 My name is Kaan Gocer
 FullStack Developer Candidate
 -----------------------------
 
-I've been learning to code for over 3 years. I started with C++ but I fell in love with NodeJS. Also I'm interested in Web3.
+I've been coding for over 3 years. I started with C++ but I fell in love with NodeJS. Also I'm interested in Web3.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [@dev.kaangocer@gmail.com](mailto:@dev.kaangocer@gmail.com)
